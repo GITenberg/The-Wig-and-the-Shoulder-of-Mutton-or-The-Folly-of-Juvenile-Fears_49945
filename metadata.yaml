@@ -1,4 +1,8 @@
 _repo: The-Wig-and-the-Shoulder-of-Mutton-or-The-Folly-of-Juvenile-Fears_49945
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49945-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49945#The-Wig-and-the-Shoulder-of-Mutton-or-The-Folly-of-Juvenile-Fears
 gutenberg_issued: '2015-09-12'
 gutenberg_type: Text
 identifiers:
